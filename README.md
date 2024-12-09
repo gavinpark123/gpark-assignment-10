@@ -1,1 +1,2 @@
-<img width="1267" alt="Screenshot 2024-12-08 at 11 35 59 PM" src="https://github.com/user-attachments/assets/cfc899a2-5e6b-4496-874c-d441f9ce49ac">
+<img width="1267" alt="Screenshot 2024-12-08 at 11 35 59 PM" src="https://github.com/user-attachments/assets/f747a306-c44b-4fc5-a374-0db029829e75">
+Hello, so I kept getting this message when trying to run my code. I am positive that my code runs correctly. Because failure to fix this error has taken me so long I don't have time to upload the original image folder (coco) to github. Is it possible to still get credit for this because I've been working on this for so long.
